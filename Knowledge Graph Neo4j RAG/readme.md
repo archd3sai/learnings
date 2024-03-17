@@ -17,3 +17,6 @@ Cypher is the query language for Neo4j, designed to be intuitive and efficient f
 
 Cypher Cheatsheet: [Link](https://neo4j.com/docs/cypher-cheat-sheet/5/auradb-enterprise/?utm_source=Google&utm_medium=PaidSearch&utm_campaign=Evergreenutm_content=AMS-Search-SEMCE-DSA-None-SEM-SEM-NonABM&utm_term=&utm_adgroup=DSA-use-cases&gad_source=1&gclid=Cj0KCQjwqdqvBhCPARIsANrmZhPnADdJduWJcj8BLHWoQSBM7XaaWBDFYQZ1LltEaTJ2aJ-LwIYw-20aAtwOEALw_wcB)
 
+## Knowledge Graph Example
+
+![alt text](https://github.com/archd3sai/learnings/blob/main/Knowledge%20Graph%20Neo4j%20RAG/img/image1.png "Example Graph Relationships")
